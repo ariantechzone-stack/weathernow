@@ -2,7 +2,7 @@
 
 A real-time weather app built with React, Tailwind CSS, and OpenWeatherMap API.
 
-🔗 **[Live Demo]((https://weathernow-indol.vercel.app/))** &nbsp;|&nbsp; 
+🔗 **[Live Demo](https://weathernow-indol.vercel.app/)** &nbsp;&nbsp; 
 
 ## Features
 - 🔍 Search any city worldwide
